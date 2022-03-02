@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uniswap/static/css/main.f80455dd.css",
+    "main.js": "/uniswap/static/js/main.2d5dd021.js",
+    "index.html": "/uniswap/index.html",
+    "main.f80455dd.css.map": "/uniswap/static/css/main.f80455dd.css.map",
+    "main.2d5dd021.js.map": "/uniswap/static/js/main.2d5dd021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80455dd.css",
+    "static/js/main.2d5dd021.js"
+  ]
+}
