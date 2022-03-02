@@ -1,0 +1,13 @@
+.App {
+  display: grid;
+  grid-template-columns: 500px;
+  grid-gap: 10px;
+}
+.poolInfo {
+  grid-column: 1;
+  grid-row: 1;
+}
+.swap {
+  grid-column: 1;
+  grid-row: 2;
+}
